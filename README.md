@@ -1,6 +1,6 @@
 RSA Factoring Challenge
 
-    By Lawrence Okoeguale 
+    By Biruk Habteyohannes
 
 Background Context
 
